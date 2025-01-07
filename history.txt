@@ -1,0 +1,95 @@
+    1  cd doucuments
+    2  ls
+    3  man sudo_root
+    4  ls
+    5  sudo ls
+    6  ls list
+    7  cd users
+    8  cd pubic
+    9  cd public
+   10  cd home
+   11  cd gxdle
+   12  cd ..
+   13  cd documents
+   14  cd users
+   15  cd/gxdlee
+   16  cd/
+   17  cd /
+   18  nautilus /home
+   19  sudo apt install nautilus
+   20  cd ~
+   21  sudo apt install nautilus
+   22  mkdir git-basic-exercises
+   23  cd git-basic-exercises
+   24  ls -a
+   25  git init
+   26  ls -a
+   27  git status
+   28  touch README.md
+   29  ls -a
+   30  git status
+   31  git log
+   32  git add README.md
+   33  git log
+   34  git status
+   35  git reset HEAD README.md
+   36  git rm --cached README.md
+   37  git status
+   38  git add README.md
+   39  git commit -m "initial commit"
+   40  git config --global user.email "lebonekolokoto@gmail.com"
+   41  git commit -m "initial commit"
+   42  git config --global user.name "Lebone-K"
+   43  git commit -m "initial commit"
+   44  git log
+   45  nano README.md
+   46  cat README.md
+   47  git status
+   48  git commit -m "second commit"
+   49  git status
+   50  git add .
+   51  git status
+   52  git commit -m "second commit"
+   53  git status
+   54  git log
+   55  nano README.md
+   56  cat README.md
+   57  git commit -m "third commit"
+   58  git add .
+   59  git commit -m "third commit"
+   60  gitlog
+   61  git log
+   62  git checkout f4ebd9e32261c91d3d1fe4ee2130162c31e239d1
+   63  cat README.md
+   64  git checkout main
+   65  cat README.md
+   66  git checkout main
+   67  git checkout master
+   68  git branch
+   69  git branch -b milkshake-flavours
+   70  git branch milkshake-flavours
+   71  git branch
+   72  git branch -b milkshake-flavours
+   73  git checkout
+   74  git branch
+   75  git switch
+   76  git switch branch
+   77  git branch switch
+   78  git branch
+   79  git branch -D switch
+   80  git branch
+   81  git switch milkshake-flavours
+   82  git branch
+   83  nano milkshakes.md
+   84  git status
+   85  git commit -m "added initial flavours"
+   86  git add .
+   87  git commit -m "added initial flavours"
+   88  git log
+   89  git checkout master
+   90  git branch
+   91  git branch history
+   92  git checkout history
+   93  git log
+   94  git branch
+   95  history > history.txt
